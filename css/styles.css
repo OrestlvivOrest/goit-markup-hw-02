@@ -20,7 +20,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 .header-span {
-    color: var(--IRIS, #4D5AE5);
+    color: #2e2f42;
 font-size: 18px;
 font-weight: 700;
 line-height: 1.16;
