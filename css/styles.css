@@ -91,10 +91,10 @@ font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em
 }
-.button-btn :hover {
+.button-btn:hover {
     background-color: #404BBF; 
 }
-.button-btn :focus {
+.button-btn:focus {
     background-color: #404BBF;
 }
 
