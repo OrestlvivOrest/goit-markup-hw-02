@@ -5,10 +5,9 @@
     background-color:  #FFFFFF;
 
 }
-.body{
+body{
     font-family: "Roboto", sans-serif;
     color: #434455
-    background-color: #FFFFFF;
 }
 .header {
     background: var(--WHITE, #FFF);
@@ -70,7 +69,7 @@ text-transform: uppercase;
 }
 
 .button {
-    font-family: "Roboto", sans-serif 
+    font-family: "Roboto", sans-serif; 
     background: var(--NAVY-BLUE, #2E2F42);
     cursor: pointer;
 }
@@ -95,17 +94,15 @@ line-height: 1.5;
 letter-spacing: 0.04em
 }
 .button-btn :hover {
-    color: #404bbf
-    background-color: #404BBF;
+    background-color: #404BBF 
 }
 .button-btn :focus {
-    color: #404bbf
-    background-color: #404BBF;
-}
+    cbackground-color: #404BBF 
 
 /*  About  */
 
-.about {
+.about{
+
 }
 .about-list {
 }
@@ -136,7 +133,7 @@ letter-spacing: 0.02em;
 font-size: 36px;
 text-align: center;
 font-weight: 700;
-line-height:1.11;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 }
@@ -199,7 +196,7 @@ letter-spacing: 0.02em;
     background: var(--NAVY-BLUE, #2E2F42);
 }
 .footer-logo {
-    color: #4d5ae5;
+    color: var(--IRIS, #4D5AE5);
     font-family: 'Raleway', sans-serif;
 font-size: 18px;
 font-weight: 700;
