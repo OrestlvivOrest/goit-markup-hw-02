@@ -81,7 +81,7 @@ line-height: 1.07;
 letter-spacing: 1.12px;
 }
 .button-btn {
-    font-family: "Roboto", sans-serif; 
+    font-family: 'Roboto', sans-serif;
 background: var(--IRIS, #4D5AE5);
 
 color: var(--WHITE, #FFF);
@@ -92,10 +92,10 @@ line-height: 1.5;
 letter-spacing: 0.04em
 }
 .button-btn :hover {
-    background-color: #404BBF 
+    background-color: #404BBF; 
 }
 .button-btn :focus {
-    background-color: #404BBF 
+    background-color: #404BBF;
 }
 
 /*  About  */
@@ -204,7 +204,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 .footer-span {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: #f4f4fd;
 }
 .footer-text {
     color: var(--CLOUD, #F4F4FD);
