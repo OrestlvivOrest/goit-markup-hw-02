@@ -2,12 +2,11 @@
   font-family: "Raleway", sans-serif;
     font-family: 'Roboto', sans-serif;
     color: #434455;
-    background-color:  #FFFFFF;
-
 }
 body{
     font-family: "Roboto", sans-serif;
-    color: #434455
+    color: #434455;
+    background-color:  #FFFFFF;
 }
 .header {
     background: var(--WHITE, #FFF);
@@ -71,7 +70,6 @@ text-transform: uppercase;
 .button {
     font-family: "Roboto", sans-serif; 
     background: var(--NAVY-BLUE, #2E2F42);
-    cursor: pointer;
 }
 .button-title {
     color: var(--WHITE, #FFF);
@@ -98,6 +96,7 @@ letter-spacing: 0.04em
 }
 .button-btn :focus {
     cbackground-color: #404BBF 
+}
 
 /*  About  */
 
@@ -196,8 +195,8 @@ letter-spacing: 0.02em;
     background: var(--NAVY-BLUE, #2E2F42);
 }
 .footer-logo {
-    color: var(--IRIS, #4D5AE5);
-    font-family: 'Raleway', sans-serif;
+    font-family: "Raleway", sans-serif;
+    color: #4d5ae5;
 font-size: 18px;
 font-weight: 700;
 line-height: 1.17;
@@ -205,7 +204,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 .footer-span {
-    color: #F4F4FD;
+    color: var(--NAVY-BLUE, #2E2F42);
 }
 .footer-text {
     color: var(--CLOUD, #F4F4FD);
