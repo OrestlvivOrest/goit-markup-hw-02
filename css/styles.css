@@ -8,6 +8,14 @@ body{
     color: #434455;
     background-color:  #FFFFFF;
 }
+a{
+    text-decoration: none;
+}
+ul, ol{
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
 .header {
     background: var(--WHITE, #FFF);
 }
@@ -32,7 +40,6 @@ text-transform: uppercase;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    background-color: #404bbf ;
 }
 .header-menu-item {
     
